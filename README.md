@@ -1,23 +1,31 @@
 # Simulador de Caixa Eletrônico
 
-Projeto avaliativo desenvolvido em Java para praticar:
+Esse é um projeto simples feito em Java para simular algumas funções de um caixa eletrônico.
 
-- Variáveis
-- Entrada e saída de dados
-- Classe `Scanner`
-- Estruturas condicionais
-- Estrutura de repetição `do-while`
-- Operações de depósito, saque e consulta de saldo
+## O que ele faz?
 
-## Como executar
+O programa começa com o saldo em **R$ 0,00** e permite:
 
-É necessário ter o JDK 8 ou superior instalado.
+- Consultar o saldo
+- Fazer um depósito
+- Fazer um saque
+- Sair do programa
 
-No terminal, dentro da pasta do projeto:
+Também existem algumas verificações para evitar valores inválidos e saques maiores que o saldo.
+
+## Como usar
+
+1. Abra o arquivo `CaixaEletronico.java`.
+2. Compile o programa com:
 
 ```bash
 javac CaixaEletronico.java
+```
+
+3. Depois, execute com:
+
+```bash
 java CaixaEletronico
 ```
 
-O sistema inicia com saldo de R$ 0,00 e permite realizar múltiplas operações até selecionar a opção 4.
+O menu vai aparecer no terminal e é só escolher a opção desejada.
