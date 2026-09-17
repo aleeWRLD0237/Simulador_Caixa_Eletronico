@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 53ccc026761fc03d73ad5ecf7a4bc330804a995e Pedro Alexandre <pedro@example.com> 1789669795 +0000	commit (initial): Cria estrutura inicial do caixa eletrônico
+53ccc026761fc03d73ad5ecf7a4bc330804a995e 8ec84e369d4a6e085c3da622284ffceef05b1045 Pedro Alexandre <pedro@example.com> 1789669795 +0000	commit: Adiciona menu e consulta de saldo
+8ec84e369d4a6e085c3da622284ffceef05b1045 a1b3466744806bbe2ab5a3dc7045fabc67d620d8 Pedro Alexandre <pedro@example.com> 1789669796 +0000	commit: Implementa operação de depósito
+a1b3466744806bbe2ab5a3dc7045fabc67d620d8 0934c8dff5a85f012cbf2a47ea18547310aa8c78 Pedro Alexandre <pedro@example.com> 1789669797 +0000	commit: Implementa saque e validações
+0934c8dff5a85f012cbf2a47ea18547310aa8c78 b7f519381914c92249a7fc84b4ccbc025790b08c Pedro Alexandre <pedro@example.com> 1789669804 +0000	commit (amend): Implementa saque e validações
+b7f519381914c92249a7fc84b4ccbc025790b08c 27df6dab0225c4994ae04f9a74f4a8c45e2d231d Pedro Alexandre <pedro@example.com> 1789669851 +0000	commit (amend): Implementa saque e validações
